@@ -1,5 +1,6 @@
-# AnaMetabo_app
-Dans le cadre du projet de Génie Logiciel du master Bioinformatique à Bordeaux
+# AnaMetabo_final_app
+
+As part of the Software Engineering Project for the Master’s Degree in Bioinformatics at the University of Bordeaux.
 
 
-Accès direct vers l'app : <https://ana-metabo-app.shinyapps.io/ana-metabo-app/>
+Direct app access : <https://ana-metabo-app.shinyapps.io/anametabo_app-main/>
